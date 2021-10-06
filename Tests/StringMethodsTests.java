@@ -42,7 +42,7 @@ public class StringMethodsTests {
     void PasswordTuring() throws IOException {
         System.setIn(new FileInputStream("data_files/passwordOne.txt"));
         //Password.main(null);
-        assertTrue(outContent.toString().contains("AIInng3075"));
+        assertTrue(outContent.toString().contains("AIIgnn3075"));
     }
 
     @Test

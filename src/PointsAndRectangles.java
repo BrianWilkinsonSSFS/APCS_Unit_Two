@@ -13,13 +13,15 @@ public class PointsAndRectangles
 
         //Instantiate a Point object p. Hint: you will need the keyword "new"
 
-
-        // create print statements and get input for the length and width
+        // create print statements and get input for the width and height
 
         //Instantiate a Dimension object d.
 
+
         //Instantiate a Rectangle object r.
 
+
         // Print each object p, d, and r on a separate line.
+
     }
 }
